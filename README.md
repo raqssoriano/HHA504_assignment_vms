@@ -25,7 +25,8 @@
 
 
 
-     <img width="1280" alt="Azure 6" src="https://github.com/user-attachments/assets/1c5696f6-8e21-4824-8716-526fba5aa859">
+     <img width="1279" alt="GCP 6" src="https://github.com/user-attachments/assets/86286292-7dee-4289-8935-151360cd2035">
+
 
 
 
