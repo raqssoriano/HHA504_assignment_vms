@@ -2,21 +2,26 @@
 
 ## ▶︎ _**Virtual Machine**_
 - ## *Creating VM in AZURE*
-     <img width="1280" alt="Azure 1" src="https://github.com/user-attachments/assets/63140717-ccdc-4d03-8f0d-7b663eb4f0d2">
+     <img width="1280" alt="Azure 1" src="https://github.com/user-attachments/assets/b3ca2423-91f0-47ed-b33c-fbbf6eaccfac">
+
 
 
    ### ➤ As shown in the next two photos, I couldn't choose the Standard_B1ms - 1 vcpu, 2 GiB memory. It says "Request quota" on the side. The same issue happened with Standard_D2s_v3 -2 vcpus, 8 GiB memory. I just picked this one: Standard_DC1s_v2 - 1 vcpu, 4 GiB memory ($70.08/month), which is the lowest among the options I see.
 
-     <img width="1277" alt="Azure 2" src="https://github.com/user-attachments/assets/cfcc2927-074c-4a60-8c48-b6821fb7102e">
-     <img width="1279" alt="Azure 3" src="https://github.com/user-attachments/assets/c1e1427e-347a-4561-8440-fadde652f365">
+     <img width="1277" alt="Azure 2" src="https://github.com/user-attachments/assets/325bcf37-cf64-42e3-9245-59f80abf91b3">
+
+     <img width="1279" alt="Azure 3" src="https://github.com/user-attachments/assets/27c9b2bc-02e0-457a-a382-d653f7e28811">
 
 
 
-     <img width="1278" alt="Azure 4" src="https://github.com/user-attachments/assets/f8daacb8-8a83-482f-a6b4-d5f1aef45366">
+
+     <img width="1278" alt="Azure 4" src="https://github.com/user-attachments/assets/42d96a5b-9c5e-4ca7-8d0c-d2d850021937">
 
 
 
-     <img width="1278" alt="Azure 5" src="https://github.com/user-attachments/assets/f6e5781b-eee6-4325-adf4-e12d5f4d899b">
+
+     <img width="1278" alt="Azure 5" src="https://github.com/user-attachments/assets/ea2ffda0-b81b-4617-8073-372e2b4195b3">
+
 
 
 
@@ -25,40 +30,48 @@
 
 
    ### ➤ As shown in this photo, I encountered an error message and the creation of my VM was unsuccessful after clicking the Review + Create button. I clicked the arrow next to 'Click here to view details.'
-     ![Azure 7](https://github.com/user-attachments/assets/432ebe4e-d7e3-47c5-8306-9ca86cad18ab)
+     <img width="1279" alt="Azure 7" src="https://github.com/user-attachments/assets/9b2ec87e-7f62-452c-904b-312b580e5d02">
+
 
 
    ### ➤ Then, the error message appeared, as shown in this photo.
-     <img width="589" alt="Azure 8" src="https://github.com/user-attachments/assets/db3dcb98-51ba-42fe-98d7-8e203797f32a">
+     <img width="589" alt="Azure 8" src="https://github.com/user-attachments/assets/637b0aef-21f3-48b7-8b2a-61b76836e1ba">
+
 
 
 - ## *Creating VM in GCP*
    ### ➤ I navigated to Compute Engine ⇾ VM Instances, clicked 'Create Instance', created a new VM named 'gcp-vm-assignment', and picked the lowest memory under the Machine type. I waited for a minute or two before I saw a green check mark under status on the instances dashboard.
 
-     <img width="1274" alt="GCP 1" src="https://github.com/user-attachments/assets/8a72e992-70be-4312-91f8-661dfcfef4c0">
+     <img width="1274" alt="GCP 1" src="https://github.com/user-attachments/assets/52266af9-f1f7-45a0-8975-5b16b4b9a9ed">
 
 
-     <img width="641" alt="GCP 2" src="https://github.com/user-attachments/assets/a05c3d32-a267-41db-bf90-c0d5f36f7797">
+
+     <img width="641" alt="GCP 2" src="https://github.com/user-attachments/assets/29de93d5-ab0e-4791-a9ef-4c2eb0216086">
 
 
-     <img width="1278" alt="GCP 3" src="https://github.com/user-attachments/assets/4026c018-6d6d-4fee-9ae2-9e1522fc3473">
+
+     <img width="1278" alt="GCP 3" src="https://github.com/user-attachments/assets/25a383da-dc4e-40cd-b598-e7d5d0fb135b">
 
 
-     <img width="633" alt="GCP 4" src="https://github.com/user-attachments/assets/b1019ca3-dd69-476f-8057-87673a00b9d3">
+     <img width="633" alt="GCP 4" src="https://github.com/user-attachments/assets/3d7203f5-99c7-4709-a192-8126a7914b39">
 
 
-     <img width="1279" alt="GCP 5" src="https://github.com/user-attachments/assets/7e6ac75b-d5d2-4827-9221-11a8c9af4bfa">
+
+     <img width="1279" alt="GCP 5" src="https://github.com/user-attachments/assets/a74a1b99-e097-460b-8f6e-8e4259975686">
 
 
 
    ### ➤ After creating the VM, I clicked on it and explored the Details section for a few minutes. See photos below.
-     <img width="1279" alt="GCP 6" src="https://github.com/user-attachments/assets/073e33ee-2bdf-485e-a332-a55294b58881">
+     <img width="1279" alt="GCP 6" src="https://github.com/user-attachments/assets/4506b4af-107b-4b7b-8fed-b85c3b4e45dd">
 
 
-     <img width="1278" alt="GCP 7" src="https://github.com/user-attachments/assets/5020ce87-6f89-476d-aacf-41bbda9831cd">
+
+     <img width="1278" alt="GCP 7" src="https://github.com/user-attachments/assets/9a6fce98-f015-4026-873d-230cb0932c51">
 
 
-     <img width="1274" alt="GCP 8" src="https://github.com/user-attachments/assets/ab605a2f-e91c-4a6a-bbec-4b30f6fbb30c">
+
+     <img width="1274" alt="GCP 8" src="https://github.com/user-attachments/assets/b04a87b0-2ee5-4551-b9f5-b38deabd5c1d">
+
 
 
 
@@ -69,30 +82,36 @@
 - ## *GCP*
    ### ➤ I went to the Billing section and clicked on Reports. I don't see any amount associated with my new VM. I made sure that I haven't stopped or deleted it yet.
 
-     <img width="1271" alt="GCP 9" src="https://github.com/user-attachments/assets/48f7541d-1b46-481a-8df5-bbefed0178c3">
+     <img width="1271" alt="GCP 9" src="https://github.com/user-attachments/assets/118ad75a-af1c-4630-9e5c-7cdc137da83b">
 
    ### ➤ As I was exploring it, I found two ways to stop and delete the VM. See the photos below. First, on the dashboard under 'gcp-vm-assignment' (all the way to the right side), there are three vertically aligned dots. Second, after clicking the name of my VM, at the top almost to the right side, there are the same three vertically aligned dots. There are options to stop, delete, and several more.
 
    #### _Note:_ I stopped the VM before deleting it.
-     <img width="1047" alt="GCP 10" src="https://github.com/user-attachments/assets/b8b936a5-a8cd-47ba-b83e-79b7a37056af">
+     <img width="1047" alt="GCP 10" src="https://github.com/user-attachments/assets/9e3499a2-818d-4cfd-99a9-4a09f40f593f">
+
      
 
-     <img width="1272" alt="GCP 11" src="https://github.com/user-attachments/assets/8c8e41b0-41bd-4f99-84e7-51faa142bfe2">
+     <img width="1272" alt="GCP 11" src="https://github.com/user-attachments/assets/7dfeb31b-53c1-41ca-a921-1b362498c254">
+
      
 
-     <img width="1275" alt="GCP 12" src="https://github.com/user-attachments/assets/2380e519-8200-4cfc-b369-daf729ff8094">
+    <img width="1275" alt="GCP 12" src="https://github.com/user-attachments/assets/b7ecbb52-f9ff-41ce-bcb9-8770d536fcfb">
+
      
 
-     <img width="1271" alt="GCP 13" src="https://github.com/user-attachments/assets/d60233b6-f682-4177-9e1d-b24a1fd0b127">
+     <img width="1271" alt="GCP 13" src="https://github.com/user-attachments/assets/1da0604d-d670-4681-808d-1e91e93470b1">
+
      
 
-     <img width="1275" alt="GCP 14" src="https://github.com/user-attachments/assets/c9e77042-6678-4f13-b691-e1b7f5a87370">
+     <img width="1275" alt="GCP 14" src="https://github.com/user-attachments/assets/59081072-8e7c-4e9b-ab7d-469b2ae59931">
+
      
 
-     <img width="606" alt="GCP 15" src="https://github.com/user-attachments/assets/e1a4671f-4606-46b1-9cec-ed962688bc3d">
+     <img width="606" alt="GCP 15" src="https://github.com/user-attachments/assets/0b3a2ad9-6ac4-420c-92dc-8d6bed2c6674">
+
      
    ### ➤ I made sure I fully deleted the new VM I created by clicking the 'Refresh' button under the VM instances window, and I also used the refresh button on my Chrome browser.
-     <img width="1177" alt="GCP 16" src="https://github.com/user-attachments/assets/79ed5372-6e2c-4642-8f2d-3dcf572e30ab">
+     <img width="1177" alt="GCP 16" src="https://github.com/user-attachments/assets/6bfb6504-eae5-4433-ab72-c494a03f4c68">
 
 # ▶︎ _**My Key Takeaways from this Assignment**_
 
